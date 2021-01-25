@@ -24,9 +24,10 @@ For more information, see [Projects and Tools](/projects)
 
 Some recent talks:
 1. Challenges in Securing Critical Infrastructure, Guest lecture for UW Madison Graduate Class on Cybersecurity, 2020.
-2. Digital Transformation of the Unit Operations Lab, AIChE Annual Conference (online), 2020.
-3. Cloud Historians for Online Lab Education, AIChE Education Forum Virtual Community (online), 2020.
-4. Academic Hub and the Unit Operations Lab, PI World (San Francisco, CA), 2019.
+2. The Science and Engineering of Chocolate, Rose-Hulman Alumi Talks with K. Henthorn, 2020.
+3. Digital Transformation of the Unit Operations Lab, AIChE Annual Conference (online), 2020.
+4. Cloud Historians for Online Lab Education, AIChE Education Forum Virtual Community (online), 2020.
+5. Academic Hub and the Unit Operations Lab, PI World (San Francisco, CA), 2019.
 
 <br><br>
 

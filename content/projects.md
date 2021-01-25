@@ -2,6 +2,8 @@
 title = "Current Projects and Tools"
 +++
 
+# Projects and Tools
+
 ## Control Systems
 Students in our lab have the opportunity to implement modern control system elements including safety instrumented systems, distributed I/O, advanced process control, and soft sensors.
 
@@ -20,9 +22,9 @@ Our cloud historian stack is based on:
 * InfluxDB for time series data storage
 * Grafana for visualization and dashboarding
 
-In Process Analytics, we teach students to process this data using Python through Jupyter notebooks. For plotting we use Plotly, Seaborn, and Matplotlib.
+In Process Analytics, we teach students to process this data using the Python language and Jupyter notebooks. We use NumPy, scikit-learn, and pandas for analysis. For plotting we use Plotly, Seaborn, and Matplotlib.
 
-<img src="/pairplot.png" alt="drawing" width="65%"/>
+<img src="/pairplot.png" alt="drawing" width="90%"/>
 
 ## ICS Infrastructure
 Students in our lab get the chance to learn networking and server design. We have projects in:

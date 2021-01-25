@@ -23,7 +23,7 @@ googleAnalytics = ""  # add your tracking id
     weight = 1
   [[menu.main]]
     name = "Data Portal"
-    url = "https://henthornlab.org:3000"
+    url = "/portal"
     weight = 2
   [[menu.main]]
     name = "Projects and Tools"
