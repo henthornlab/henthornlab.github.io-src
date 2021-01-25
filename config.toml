@@ -1,0 +1,40 @@
+title = "Henthorn Lab"
+baseURL = "https://henthornlab.org"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = false          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "David Henthorn"
+  description = "A simple monospaced resume theme for Hugo."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Data Portal"
+    url = "https://henthornlab.org:3000"
+    weight = 2
+  [[menu.main]]
+    name = "Projects and Tools"
+    url = "/projects"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 4
+
+  
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files

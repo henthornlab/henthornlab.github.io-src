@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HenthornLab on Henthorn Lab</title>
+    <link>https://henthornlab.org/</link>
+    <description>Recent content in HenthornLab on Henthorn Lab</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://henthornlab.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://henthornlab.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://henthornlab.org/about/</guid>
+      <description>About Me In 2012 I joined Rose-Hulman Institute of Technology in Terre Haute, IN, USA as an Associate Professor of Chemical Engineering.
+Courses I teach:  Mass and Energy Balances Intro to Design Heat and Mass Transfer Process Analytics Transport Phenomena  Research interests I conduct research in industrial control system architecture and applications of data science in chemical processes.
+Service roles While I&amp;rsquo;m active with various service roles, I enjoy mentoring student design competitions the most.</description>
+    </item>
+    
+    <item>
+      <title>Current Projects and Tools</title>
+      <link>https://henthornlab.org/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://henthornlab.org/projects/</guid>
+      <description>Control Systems Students in our lab have the opportunity to implement modern control system elements including safety instrumented systems, distributed I/O, advanced process control, and soft sensors.
+The Unit Operations laboratory at RHIT features three DeltaV distributed control systems provided through an Education Agreement with Emerson. We use them as Test, Development, and Production systems.
+We now track over 400 tags and we have worked to implement as many different industrial protocols as practical, including: HART, Wireless HART, Profibus DP, Profibus PA, Modbus TCP, EtherNet/IP, DeviceNet, OPC DA, and OPC UA.</description>
+    </item>
+    
+    <item>
+      <title>Tools that we use</title>
+      <link>https://henthornlab.org/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://henthornlab.org/tools/</guid>
+      <description>Tools that we use Control Systems The Unit Operations laboratory at RHIT features three DeltaV distributed control systems, provided through an Education Agreement with Emerson. We use these as Test, Development, and Production systems.
+The unit currently feature over 400 tags and try to feature many different industrial protocols, inlcuding: HART, Wireless HART, Profibus DP, Profibus PA, Modbus TCP, EtherNet/IP, DeviceNet, OPC DA, and OPC UA. Analytics and Data Science Our cloud historian stack is based on:</description>
+    </item>
+    
+  </channel>
+</rss>
