@@ -21,9 +21,14 @@ Our lab studies the following:
 For more information, see [Projects and Tools](/projects)
 
 ## Talks and Lectures
+Some upcoming talks:
+1. Illuminating the Dark Data of Critical Infrastructure, [InfluxDays EMEA](https://www.influxdays.com/emea-2021-virtual-experience/speakers/), May 18-19, 2021.
+2. Bridging the Gap: Getting the Dam Engineers and the Flippin’ Cybersecurity People Talking, [Circle City Con](https://circlecitycon.com/) June 11-13, 2021.
+3. [Purdue CERIAS summer seminar](https://www.cerias.purdue.edu/news_and_events/events/security_seminar/summer), July 14, 2021.
+
 
 Some recent talks:
-1. X-Time Talks: The Science and Engineering of Chocolate, https://x-time.org/
+1. X-Time Talks: The Science and Engineering of Chocolate, [X-Time Lectures](https://x-time.org/), 2021.
 2. Challenges in Securing Critical Infrastructure, Guest lecture for UW Madison Graduate Class on Cybersecurity, 2020.
 3. The Science and Engineering of Chocolate, Rose-Hulman Alumni Talks (with K. Henthorn), 2020.
 4. Digital Transformation of the Unit Operations Lab, AIChE Annual Conference (online), 2020.

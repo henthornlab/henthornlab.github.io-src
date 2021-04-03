@@ -10,7 +10,7 @@ Students in our lab have the opportunity to implement modern control system elem
 The Unit Operations laboratory at RHIT features three DeltaV distributed control systems provided through an Education Agreement with Emerson. We use them as Test, Development, and Production systems.
 
 We now track over 400 tags and we have worked to implement as many different industrial protocols as practical, including: HART, Wireless HART, Profibus DP, Profibus PA, Modbus TCP, EtherNet/IP, DeviceNet, OPC DA, and OPC UA.
-<img src="/instruments.jpg" alt="drawing" width="70%"/>
+<img src="/instruments.jpg" alt="drawing" width="90%"/>
 
 
 ## Analytics and Data Science
@@ -26,9 +26,13 @@ In Process Analytics, we teach students to process this data using the Python la
 
 <img src="/pairplot.png" alt="drawing" width="90%"/>
 
-## ICS Infrastructure
-Students in our lab get the chance to learn networking and server design. We have projects in:
-* Server virualization
+## ICS Modernization and Security
+We deal extensively with OPC UA programming, using [Open62541](https://open62541.org/) and [GOPCUA](https://github.com/gopcua/opcua).
+
+In addition, we work with modernization of ICS security, focusing on [NIST 800-82R2](https://csrc.nist.gov/publications/detail/sp/800-82/rev-2/final) and [IEC 62443](https://www.iec.ch/cyber-security). 
+
+Students in our lab also get the chance to learn networking and server design. We have projects in:
+* Server virualization 
 * Containerized workloads and Kubernetes (k3s in particular)
 * Setting up firewalls
 * Creating VLANs and ACLs
