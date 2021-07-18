@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HenthornLab on Henthorn Lab</title>
+    <title>Henthorn Lab</title>
     <link>https://henthornlab.org/</link>
-    <description>Recent content in HenthornLab on Henthorn Lab</description>
+    <description>Recent content on Henthorn Lab</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://henthornlab.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -16,14 +16,24 @@ Service roles While I&amp;rsquo;m active with various service roles, I enjoy men
     </item>
     
     <item>
+      <title>Chocolate Research</title>
+      <link>https://henthornlab.org/chocolate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://henthornlab.org/chocolate/</guid>
+      <description>Chocolate Research A few years back I decided to supplement my Intro to Design and Fluid Mechanics courses with the rheological behavior of chocolate. This launched a research &amp;ldquo;hobby&amp;rdquo; that has been a rewarding subject and collaborative area.
+Since then, I have given talks about the Science and Engineering of Chocolate to a multitude of groups, ranging from grade school students up to adults enrolled in a life-long learning course. We have performed in-person chocolate tastings and, when COVID hit, even conducted virtual chocolate tasting events.</description>
+    </item>
+    
+    <item>
       <title>Current Projects and Tools</title>
       <link>https://henthornlab.org/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://henthornlab.org/projects/</guid>
-      <description>Projects and Tools Control Systems Students in our lab have the opportunity to implement modern control system elements including safety instrumented systems, distributed I/O, advanced process control, and soft sensors.
+      <description>Projects and Tools Modernization of Industrial Control Systems Students in our lab have the opportunity to implement modern control system elements including safety instrumented systems, distributed I/O, advanced process control, and soft sensors.
 The Unit Operations laboratory at RHIT features three DeltaV distributed control systems provided through an Education Agreement with Emerson. We use them as Test, Development, and Production systems.
-We now track over 400 tags and we have worked to implement as many different industrial protocols as practical, including: HART, Wireless HART, Profibus DP, Profibus PA, Modbus TCP, EtherNet/IP, DeviceNet, OPC DA, and OPC UA.</description>
+We now track over 400 tags, connected using a wide variety of different industrial protocols, including: HART, Wireless HART, Profibus DP, Profibus PA, Modbus TCP, EtherNet/IP, DeviceNet, OPC DA, and OPC UA.</description>
     </item>
     
     <item>
