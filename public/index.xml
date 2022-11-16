@@ -11,8 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://henthornlab.org/about/</guid>
-      <description>About Me In 2012 I joined Rose-Hulman Institute of Technology in Terre Haute, IN, USA as an Associate Professor of Chemical Engineering. Courses I teach:  Mass and Energy Balances Intro to Design Heat and Mass Transfer Process Analytics Transport Phenomena  Research interests I conduct research in industrial control system architecture and applications of data science in chemical processes. For more information, see Projects and Tools
-Service roles While I&amp;rsquo;m active with various service roles, I enjoy mentoring student design competitions the most.</description>
+      <description>About Me In 2012 I joined Rose-Hulman Institute of Technology in Terre Haute, IN, USA where I am now a Professor of Chemical Engineering. Courses I have taught at RHIT: Mass and Energy Balances Intro to Design Heat and Mass Transfer Process Analytics Transport Phenomena Intro to Programming (Python) Modern Control Systems Research interests I conduct research in industrial control system architecture and applications of data science in chemical processes. For more information, see Projects and Tools</description>
     </item>
     
     <item>
@@ -31,9 +30,9 @@ Since then, I have given talks about the Science and Engineering of Chocolate to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://henthornlab.org/projects/</guid>
-      <description>Projects and Tools Modernization of Industrial Control Systems Students in our lab have the opportunity to implement modern control system elements including safety instrumented systems, distributed I/O, advanced process control, and soft sensors.
-The Unit Operations laboratory at RHIT features three DeltaV distributed control systems provided through an Education Agreement with Emerson. We use them as Test, Development, and Production systems.
-We now track over 400 tags, connected using a wide variety of different industrial protocols, including: HART, Wireless HART, Profibus DP, Profibus PA, Modbus TCP, EtherNet/IP, DeviceNet, OPC DA, and OPC UA.</description>
+      <description>Projects and Tools Modernization of Critical Infrastructure We work in two areas in the modernization of critical infrastructure
+Research into the cybersecurity of industrial control systems Modernization of legacy hardware, instrumentation, and protocols. Students in our lab have the opportunity to implement modern control system elements including safety instrumented systems, distributed I/O, advanced process control, and soft sensors and secure them using best practices.
+The laboratory features three DeltaV distributed control systems provided through an Education Agreement with Emerson.</description>
     </item>
     
     <item>

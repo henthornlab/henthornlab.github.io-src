@@ -13,7 +13,7 @@ googleAnalytics = ""  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   
   [params.footer]
-    text = "Copyright David B. Henthorn, 2021. Site built with Hugo on the Researcher theme by Olivier Roques"
+    text = "Copyright David B. Henthorn, 2022. Site built with Hugo on the Researcher theme by Olivier Roques"
     url = "https://github.com/ojroques/hugo-researcher"
 
 [permalinks]
